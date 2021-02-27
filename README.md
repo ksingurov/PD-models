@@ -1,2 +1,2 @@
-# PD
-Development/Validation of Probability of Default models
+# Development of Probability of Default model
+The purpose of this exercise is to develop Probabality of Default model for a portfolio containing a large and diversified pool of customers. The process will also include testing model's predictive power and calibration precision. As a tool of development Python was choosen for its usability qualities. As developing environment Jupyter Notebook is used.
